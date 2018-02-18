@@ -1,0 +1,1 @@
+I was invited to try my hand at some of the problems in the [Google Foo Bar Challenge](https://www.geeksforgeeks.org/google-foo-bar-challenge/). Unfortunately, I did not have the proper insight to save the questions. This repository contains solutions to unknown/unremembered questions.
